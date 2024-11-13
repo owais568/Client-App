@@ -1,0 +1,48 @@
+#ideal{
+    color: white;
+    font-weight: bold;
+}
+#tartib{
+ margin-left: 65%;
+ text-transform:uppercase ;
+}
+#tasver{
+   height: 860px;background-attachment: fixed ;
+   /* background-image: url(images/hero-bg.jpg); */
+}
+.heading{
+    font-size:30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* margin-bottom: 5px; */
+}
+#heading{
+    font-size:30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    /* margin-bottom: 35%; */
+}
+.healthy{
+    color: white;
+    padding: 0 15%;
+    font-weight: 400;
+    padding-top: 20px;
+}
+/* .bton{
+    background-color: white;  color: black;text-transform:uppercase;background-color: transparent;color: white;padding:8px 35px 8px 35px ;border-color: white;margin:20px 0 80px 0;
+}.bton:hover{background-color: white;color: black;} */
+.rabta{text-transform: uppercase;background-color: transparent;color: white;padding:8px 35px 8px 35px ;border-color: white;margin-bottom:220px ;}
+.rabta:hover{background-color: white;color: black;}
+.ustad{
+    padding:0 5%;
+    /* margin: 20% 2%; */
+ }
+ @media only screen and (max-width:568px){
+    .bton{
+       margin-left: 20%;
+    }
+    #jga{margin-left: 10%;}
+    .jga{margin-left: 35%;}
+    #jha{margin-right: 10% !important;}
+    .pone{margin-left: 20%;border-color: white;}
+ }
